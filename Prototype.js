@@ -6,7 +6,7 @@ function Employee(age){
 Employee.prototype.getAge = function(){
     return this.age
 }
-
+///kd
 function PermanentEmployee(annualSalary){
     this.annualSalary = annualSalary;
 }
